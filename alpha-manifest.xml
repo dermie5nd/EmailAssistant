@@ -12,8 +12,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="EmailAssistant"/>
   <Description DefaultValue="A tool to safely navigate emails"/>
-  <IconUrl DefaultValue="https://emailassistantalpha.azurewebsites.net/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://emailassistantalpha.azurewebsites.net/assets/icon-64.png"/>
+  <IconUrl DefaultValue="https://emailassistantalpha.azurewebsites.net/assets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://emailassistantalpha.azurewebsites.net/assets/icon-32.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://outlook.office.com</AppDomain>
